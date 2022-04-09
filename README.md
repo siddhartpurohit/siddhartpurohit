@@ -1,4 +1,4 @@
-[![MasterHead](https://i0.wp.com/edu.varistor.in/wp-content/uploads/Frontend-Web-Development-vs-Backend-Web-Development-vs-Full-Stack-Web-Development.png)](https://rishavchanda.io)
+[![MasterHead](https://www.mobitsolutions.com/wp-content/uploads/2020/06/full-stack-developer-1170x500.jpg)](https://rishavchanda.io)
 <img align="right" alt="Coding" width="400" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif">
 <h1 align="center">Hi 👋, I'm Siddharth purohit</h1>
 <h3 align="center">A passionate frontend developer and data analysist from India</h3>
