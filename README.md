@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
+[![MasterHead](https://cdn.dribbble.com/users/970957/screenshots/5381809/1.gif)]
 
 <h1 align="center">Hi 👋, I'm Siddharth purohit</h1>
 <h3 align="center">A passionate frontend developer and data analysist from India</h3>
