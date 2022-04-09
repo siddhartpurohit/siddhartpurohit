@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0L9OqgzIyqjmY5_vlESrsGxRDWeARpiy0z8E9O5VEcL_wsoEyJGdFds_flswpLBNFq_4&usqp=CAU)](https://rishavchanda.io)
+[![MasterHead](https://i0.wp.com/edu.varistor.in/wp-content/uploads/Frontend-Web-Development-vs-Backend-Web-Development-vs-Full-Stack-Web-Development.png)](https://rishavchanda.io)
 <img align="right" alt="Coding" width="400" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif">
 <h1 align="center">Hi 👋, I'm Siddharth purohit</h1>
 <h3 align="center">A passionate frontend developer and data analysist from India</h3>
