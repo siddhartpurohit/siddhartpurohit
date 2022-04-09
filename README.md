@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/users/148731/screenshots/6662134/nowhiring-2019-dribbble.gif)](https://rishavchanda.io)
+[![MasterHead](https://goofy-goldstine-0f8bb1.netlify.app/img/web.gif)](https://rishavchanda.io)
 <img align="right" alt="Coding" width="400" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif">
 <h1 align="center">Hi 👋, I'm Siddharth purohit</h1>
 <h3 align="center">A passionate frontend developer and data analysist from India</h3>
