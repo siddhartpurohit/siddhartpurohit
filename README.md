@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhartpurohit&label=Profile%20views&color=0e75b6&style=flat" alt="siddhartpurohit" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sidkraft" target="blank"><img src="https://img.shields.io/twitter/follow/sidkraft?logo=twitter&style=for-the-badge" alt="sidkraft" /></a> </p>
-
+  
 - 🔭 I’m currently working on **data analysis projects**
 
 - 🌱 I’m currently learning **React-native , Data-Scince , node.js ,**
@@ -17,7 +17,7 @@
 - 📫 How to reach me **siddharth.purohit21@gmail.com**
 
 - ⚡ Fun fact **I am a coder who play games ("I know its not funny")**
- <img align="right" alt="Coding" width="400" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif">
+ <img align="left" alt="Coding" width="400" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/siddharthpurohit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="siddharthpurohit" height="30" width="40" /></a>
