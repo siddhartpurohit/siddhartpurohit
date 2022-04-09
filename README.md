@@ -17,7 +17,7 @@
 - 📫 How to reach me **siddharth.purohit21@gmail.com**
 
 - ⚡ Fun fact **I am a coder who play games ("I know its not funny")**
- <img align="left" alt="Coding" width="400" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif">
+ <img align="right" alt="Coding" width="400" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/siddharthpurohit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="siddharthpurohit" height="30" width="40" /></a>
