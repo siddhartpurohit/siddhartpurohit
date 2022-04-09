@@ -2,12 +2,12 @@
 <img align="right" alt="Coding" width="400" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif">
 <h1 align="center">Hi 👋, I'm Siddharth purohit</h1>
 <h3 align="center">A passionate frontend developer and data analysist from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhartpurohit&label=Profile%20views&color=0e75b6&style=flat" alt="siddhartpurohit" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sidkraft" target="blank"><img src="https://img.shields.io/twitter/follow/sidkraft?logo=twitter&style=for-the-badge" alt="sidkraft" /></a> </p>
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🔭 I’m currently working on **data analysis projects**
 
 - 🌱 I’m currently learning **React-native , Data-Scince , node.js ,**
